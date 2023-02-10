@@ -54,7 +54,7 @@ a:hover {
 
 .cloud1 {
     position: absolute;
-    right: 12rem;
+    right: 6rem;
     top: 6rem;
     margin: auto;
     height: 10vw;
@@ -63,7 +63,7 @@ a:hover {
 
 .cloud2 {
     position: absolute;
-    left: 12rem;
+    left: 6rem;
     top: 15rem;
     margin: auto;
     height: 10vw;
