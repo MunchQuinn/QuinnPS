@@ -56,12 +56,18 @@ a:hover {
     position: absolute;
     right: 12rem;
     top: 6rem;
+    margin: auto;
+    height: 10vw;
+    width: 20vw;
 }
 
 .cloud2 {
     position: absolute;
     left: 12rem;
     top: 15rem;
+    margin: auto;
+    height: 10vw;
+    width: 20vw;
 }
 
 .introduction {
